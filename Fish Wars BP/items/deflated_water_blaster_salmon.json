@@ -1,0 +1,22 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "fish:deflated_water_blaster_salmon",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "fish_deflated_water_blaster_salmon"
+			},
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "fish:deflated_used"
+				}
+			}
+		},
+		"events": {
+			"fish:deflated_used": {}
+		}
+	}
+}

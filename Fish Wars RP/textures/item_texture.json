@@ -1,0 +1,30 @@
+{
+	"resource_pack_name": "Fish Wars",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"fish_floppy_cod": {
+			"textures": "textures/items/floppy_cod"
+		},
+		"fish_sturdy_cod": {
+			"textures": "textures/items/sturdy_cod"
+		},
+		"fish_inflaty_pufferfish": {
+			"textures": "textures/items/inflaty_pufferfish"
+		},
+		"fish_water_blaster_salmon": {
+			"textures": "textures/items/water_blaster_salmon_full_doesnt_work" //Change this when we get the wbs to work
+		},
+		"fish_jug_o_water": {
+			"textures": "textures/items/bucket_water"
+		},
+		"fish_sample_snowball": {
+			"textures": "textures/items/sample_snowball"
+		},
+		"fish_deflated_water_blaster_salmon": {
+			"textures": "textures/items/deflated_water_blaster_salmon"
+		},
+		"fish_hilarious_clownfish": {
+			"textures": "textures/items/hilarious_clownfish"
+		}
+	}
+}

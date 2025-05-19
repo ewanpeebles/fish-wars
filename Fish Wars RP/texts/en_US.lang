@@ -1,0 +1,9 @@
+item.fish:floppy_cod=Floppy Cod
+item.fish:sturdy_cod=Sturdy Cod
+item.fish:inflaty_pufferfish=Inflaty Pufferfish
+item.fish:water_blaster_salmon=Water Blaster Salmon - doesn't work
+item.fish:deflated_water_blaster_salmon=Sad Water Blaster Salmon
+item.fish:hilarious_clownfish=Hilarious Clownfish
+item.fish:healing_squid_placeholder=Healing Squid - Coming Soon!
+
+entity.fish:water_bullet.name=Water Bullet

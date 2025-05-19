@@ -1,0 +1,13 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "fish:healing_squid_placeholder"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.sword"
+			}
+		}
+	}
+}

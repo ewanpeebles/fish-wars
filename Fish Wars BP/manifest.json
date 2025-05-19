@@ -1,0 +1,75 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Steak"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.15"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	},
+	"header": {
+		"name": "Fish Wars",
+		"description": "So imagine that you're playing Skywars. Now imagine that instead of wielding a diamond sword, you're holding salmon. That's this project!",
+		"min_engine_version": [
+			1,
+			20,
+			62
+		],
+		"uuid": "16ba9f3e-2930-419d-bbf2-8e6113c40301",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "a036e6ac-b41a-4523-8a15-cb006a6f86f8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "06d05846-8db5-4a70-a3bc-df5daa94be50",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		},
+		{
+			"uuid": "a8fe718e-5268-4caa-9b1a-6719603df75c",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
